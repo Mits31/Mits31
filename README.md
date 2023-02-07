@@ -16,7 +16,7 @@ Dataset Acquisition
 Initially looking for an datasets around fraud, I wanted the dataset to be anonymous with no personal information. Luckily
 I managed to access a dataset from Kaggle which contains approximately 15,000 rows with 33 feature columns and being supervised
 also. The dataset can be accessed through the link - https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
-![image](https://user-images.githubusercontent.com/120191302/217209122-cf34654c-af25-465e-8ce3-72dc2e306c9a.png)
+
 
 Approach Overview
 ------
