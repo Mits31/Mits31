@@ -43,4 +43,4 @@ with new datasets to understand where I have missed key information.
 
 Capstone Presentation
 ------
-[You can view my capstone presentation here]https://github.com/Mits31/Mits31/blob/bf451dfa725e859576c29470001002c3e3533d4b/Capstone%20Project%20-%20Mitesh%20Acharya.pptx
+[You can view my capstone presentation here](https://github.com/Mits31/Mits31/blob/bf451dfa725e859576c29470001002c3e3533d4b/Capstone%20Project%20-%20Mitesh%20Acharya.pptx)
